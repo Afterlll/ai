@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: ai
+ai:
+  apiKey: aeafbcaa3dea168840a317b7b317aadb.Sv26xx55y18XjSlC
